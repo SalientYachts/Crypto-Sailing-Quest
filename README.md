@@ -8,7 +8,7 @@ Botanix GameFi hackathon submission
 <br />
 </p>
 <h1 align="center"># Demo Project</h1>
-[Download and unzip demo](https://drive.google.com/drive/folders/1PHaVmj1rnaGBZ5tSaZYh1w0oXYDyoekj?usp=sharing)
+ [Download and unzip demo]([https://docs.thirdweb.com/react](https://drive.google.com/drive/folders/1PHaVmj1rnaGBZ5tSaZYh1w0oXYDyoekj?usp=sharing)) 
 <p align="center">
 
 
