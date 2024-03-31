@@ -11,6 +11,8 @@ Botanix GameFi hackathon submission
  [Download and unzip demo]<br />
  (https://drive.google.com/drive/folders/1PHaVmj1rnaGBZ5tSaZYh1w0oXYDyoekj?usp=sharing)
 
+ [Demo Video of the Game]<br />
+(https://youtu.be/nIVG9Z1jV1Q)
 <p align="center">
 
 
