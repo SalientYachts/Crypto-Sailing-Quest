@@ -1,5 +1,4 @@
 # Crypto-Sailing-Quest
-Botanix GameFi hackathon submission
 
 
 <p align="center">
@@ -7,12 +6,9 @@ Botanix GameFi hackathon submission
 <a href="https://salientyachts.com"><img src="https://salientyachts.com/Documents/CryptoSailing.jpg"  alt="logo"/></a>
 <br />
 </p>
-<h1 align="center"># Demo Project</h1>
- [Download and unzip demo]<br />
- (https://drive.google.com/drive/folders/1PHaVmj1rnaGBZ5tSaZYh1w0oXYDyoekj?usp=sharing)
 
  [Demo Video of the Game]<br />
-(https://youtu.be/nIVG9Z1jV1Q)
+(https://youtu.be/3EW-36rw1sU)
 <p align="center">
 
 
