@@ -3,7 +3,7 @@
 
 <p align="center">
 <br />
-<a href="https://salientyachts.com"><img src="https://salientyachts.com/Documents/CryptoSailing.jpg"  alt="logo"/></a>
+<a href="https://salientyachts.com"><img src="https://salientyachts.com/assets/cryptoSailing-DWJDPUoe.jpg"  alt="logo"/></a>
 <br />
 </p>
 
